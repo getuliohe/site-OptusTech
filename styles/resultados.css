@@ -1,0 +1,23 @@
+.resultados{
+    display: flex;
+    padding: 0 6em 3em 6em;
+    gap: 2em;
+}
+
+.resultados__item--numerico{
+    color: var(--vinho);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.resultados__item--titulo{
+    margin: 1em 0;
+    color: var(--azul-escuro);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.resultados__item--paragrafo{
+    font-size: 16px;
+    color: var(--cinza-claro);
+}
