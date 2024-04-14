@@ -1,6 +1,7 @@
 @import url('./styles/header.css');
 @import url('./styles/banner.css');
 @import url('./styles/resultados.css');
+@import url('./styles/vagasAbertas.css');
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 
@@ -8,6 +9,7 @@
     --branco:#FFFFFF;
     --cinza-escuro:#3A404E;
     --cinza-claro:#667085;
+    --cinza-clarissimo:#EAECF0;
     --vinho:#8E2424;
     --azul-escuro:#101828;
 
